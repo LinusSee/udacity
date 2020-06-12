@@ -3,6 +3,8 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+See https://github.com/udacity/CarND-LaneLines-P1 for the original repo.
+
 Overview
 ---
 
